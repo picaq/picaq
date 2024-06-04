@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 #  🍓 🌸🌷🌹🌼🌸🌷🌹🌸 🍓 🌸🌷🌹🌼🌸🌷🌹🌸 🍓 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌻 I’m currently working on ... [UV Index Chart](https://github.com/picaq/epa-uv) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌻 I’m currently working on ... [UV Index Chart](https://github.com/picaq/epa-uv) && [Notation Map](https://github.com/picaq/notation-map) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning ... [Toccata and Fugue in D minor, BWV 565](https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉 Ask me about ... whether or not I’ve done [my Duolingo](https://www.duolingo.com/profile/picaq) lessons today
