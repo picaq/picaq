@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #  🍓 🌸🌷🌹🌼🌸🌷🌹🌸 🍓 🌸🌷🌹🌼🌸🌷🌹🌸 🍓 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌻 I’m currently working on ... [My Blog](https://picaq.github.io/blog) && [UV Index Chart](https://github.com/picaq/epa-uv) && [Notation Map](https://github.com/picaq/notation-map) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌻 I’m currently working on ... [My Blog](https://picaq.github.io/blog) && [UV Index Chart](https://github.com/picaq/epa-uv) && [all-in-one-qol chrome extension](https://github.com/picaq/all-in-one-qol-chrome-extension) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning ... [Toccata and Fugue in D minor, BWV 565](https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565) and [Reyong](https://organology.net/instrument/reyong/)  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉 Ask me about ... whether or not I’ve done [my Duolingo](https://www.duolingo.com/profile/picaq) lessons today <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 CSS is like painting by numbers 🖌️ Here are my [Custom CSS UserStyles](https://gist.github.com/picaq/ea98ea176a965187986e613c97085ffd) for browsing the web <br>
